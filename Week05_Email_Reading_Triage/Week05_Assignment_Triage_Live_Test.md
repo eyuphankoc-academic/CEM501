@@ -20,7 +20,7 @@ Over the next few days, you will receive **20 realistic project emails** in your
 
 **Scope:** Design-build of a 22-meter-deep excavation with secant pile retaining walls, a dewatering system, and temporary decking over a major urban intersection. The project involves coordination with Istanbul Metropolitan Municipality (IMM), utility relocations, and strict noise/vibration limits due to adjacent historic buildings.
 
-**Your role:** You are the **Project Manager** for the general contractor. All 12 emails are addressed to you.
+**Your role:** You are the **Project Manager** for the general contractor. All 20 emails are addressed to you.
 
 ---
 
@@ -30,7 +30,7 @@ Over the next few days, you will receive **20 realistic project emails** in your
 |------|------|--------|
 | 1 | **Saturday, March 28** (today) | You receive this assignment. Reply to the instructor's email with your chosen email address. |
 | 2 | **Sunday, March 29 at 23:59** | Deadline to submit your email address. |
-| 3 | **Monday–Tuesday, March 30–31** | You will receive 12 scenario emails in your chosen inbox. |
+| 3 | **Monday–Tuesday, March 30–31** | You will receive 20 scenario emails in your chosen inbox. |
 | 4 | **Sunday, April 5 at 23:59** | Submit your triage results. |
 
 ---
