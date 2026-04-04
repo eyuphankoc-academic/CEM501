@@ -527,66 +527,9 @@ The instructor will build the digest generator live, demonstrating:
 
 ---
 
-## Homework: Daily Report & Digest Generator
+## Assignments
 
-**Due:** April 11, 2026 (before class)
-
----
-
-### Assignment 1: Write a Daily Report from Raw Field Notes
-
-You will receive raw field notes from a fictional day on a bridge rehabilitation project — messy, incomplete, unordered.
-
-**Your task:** Transform them into a professional daily report following Part II.
-
-**Self-check before submitting:**
-
-- [ ] Specific locations (grid lines, spans, levels)?
-- [ ] Quantities included (m3, linear meters, count)?
-- [ ] Subcontractors named?
-- [ ] Could it support a delay claim?
-- [ ] Safety section complete (even if "no incidents")?
-- [ ] Tone objective and factual?
-
----
-
-### Assignment 2: Build the Digest Generator
-
-Build `digest.py` using Claude Code (or Codex CLI / Gemini CLI).
-
-**Checkpoints to work through:**
-
-| Step | Goal |
-|------|------|
-| 1 | Basic digest with hardcoded sample emails — runs and prints |
-| 2 | Add LLM summarization for URGENT and ACTION items |
-| 3 | Connect to `reader.py` and run with live inbox data |
-| 4 | Customize formatting, categories, summary length |
-
-**Stretch goal:** Add a `--format html` flag for an emailable digest.
-
----
-
-## Milestone: M3 — Daily Digest Generator
-
-**Due:** April 11, 2026 (before class)
-
-**Deliverables:**
-1. Your daily report from Assignment 1 (PDF or Markdown)
-2. `project/digest.py` pushed to your course repository
-
-**Requirements for digest.py:**
-
-1. Accepts a list of email dictionaries (or reads from `reader.py`)
-2. Groups emails by triage category (URGENT, ACTION, FYI, ARCHIVE)
-3. Generates a one-sentence LLM summary for URGENT and ACTION items
-4. Outputs a formatted text digest with date/time header
-5. Works end-to-end: `python digest.py` prints a digest from your inbox
-6. Includes at least 3 hardcoded test emails so the grader can verify without inbox access
-
-**Grading:** Pass / Needs Revision
-
-**Pass criteria:** Code runs without errors, produces a readable digest, and summaries are coherent. You do not need to handle edge cases perfectly — the goal is a working prototype.
+See **[Week06_Assignment.md](Week06_Assignment.md)** for homework and milestone details.
 
 ---
 
