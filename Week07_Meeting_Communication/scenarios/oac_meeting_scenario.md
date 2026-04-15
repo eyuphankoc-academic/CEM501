@@ -61,57 +61,6 @@ The university has requested an upgrade to the 3rd-floor laboratory ventilation 
 
 ---
 
-## Role-Specific Confidential Briefing Notes
-
-> **Instructions:** Each participant should only read their own briefing. These contain information that other parties may not know.
-
----
-
-### Owner's Representative (Deniz Akar) -- CONFIDENTIAL
-
-- The university board is under political pressure to open the building for the fall semester. A delay beyond 3 weeks is unacceptable and could affect your position.
-- You have a contingency budget of 2.5 million TL remaining, but you have been instructed to hold at least 1 million TL in reserve for commissioning.
-- You privately believe CO #07 has merit but the amount is inflated by at least 30%. You are authorized to approve up to 900K TL without board review.
-- The fume hood addition was requested by a senior faculty member who has the ear of the university president. You cannot simply refuse it.
-
----
-
-### Architect (Selin Yilmaz) -- CONFIDENTIAL
-
-- The RFI backlog is partially your firm's fault. You lost a senior project architect last month and the replacement is still getting up to speed. You do not want to admit this publicly.
-- You believe the curtain wall delay is partly due to a late design revision you issued in Month 5 that changed the mullion spacing. The GC may not realize this is a contributing factor.
-- You have not yet reviewed CO #07 in detail because your firm is behind on its own billing and resources are stretched.
-- You are concerned the lab ventilation redesign will require a structural modification to the roof framing that has not been evaluated.
-
----
-
-### General Contractor PM (Murat Celik) -- CONFIDENTIAL
-
-- Your company is losing money on this project due to material cost escalation. You need the change orders approved to stay solvent.
-- You know the curtain wall manufacturer actually shipped 2 weeks ago, but you have not updated the owner because you want to preserve schedule float for other trades.
-- CO #07 includes 180K TL of markup that you would be willing to negotiate down to close the issue quickly.
-- You are aware that the MEP sub is behind on the 2nd-floor rough-in but you have not formally notified the owner because you are trying to resolve it internally.
-
----
-
-### MEP Subcontractor (Hakan Demir) -- CONFIDENTIAL
-
-- Your crew is short-staffed because you pulled 4 electricians to another project that had a penalty clause deadline. You plan to bring them back next week.
-- You are behind on the 2nd-floor rough-in by about 10 days, but you believe you can make it up with overtime.
-- The 4th-floor embedded conduit placement is ready, but you have not received the final sleeve locations from the architect for the lab exhaust penetrations.
-- You see the lab ventilation redesign as a potential profit opportunity and want to encourage it, but you need a formal change directive before you commit resources.
-
----
-
-### Structural Engineer (Ayse Kara) -- CONFIDENTIAL
-
-- The revised rebar layout for the 4th-floor cantilever is complete but you have a concern about the as-built concrete strength on the 3rd floor. Test cylinders came in at 28 MPa versus the specified 32 MPa. You need to decide whether to raise this issue now or wait for the 56-day test results.
-- You have 5 of the 23 open RFIs assigned to you. Three of them require coordination with the architect before you can respond, and she has not returned your calls.
-- You believe the roof structure can handle the larger AHU for the lab ventilation, but you need to run a quick analysis that will take about a week.
-- You are irritated that the GC poured the 3rd-floor slab 2 days ahead of schedule without giving you adequate notice for inspection.
-
----
-
 ## Facilitation Notes
 
 **Duration:** 30-40 minutes of role-play + 15-20 minutes of debrief
